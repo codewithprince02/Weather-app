@@ -1,0 +1,30 @@
+body{
+font-family: Arial;
+background:#222;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+color:white;
+}
+
+.card{
+background:#333;
+padding:30px;
+border-radius:10px;
+text-align:center;
+width:300px;
+}
+
+.search input{
+padding:10px;
+border:none;
+outline:none;
+}
+
+.search button{
+padding:10px;
+background:orange;
+border:none;
+cursor:pointer;
+}
